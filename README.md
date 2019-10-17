@@ -1,0 +1,2 @@
+# EnjoyVisualRecognition
+Proyecto Senpai Academy
